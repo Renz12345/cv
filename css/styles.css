@@ -1,0 +1,25 @@
+    /* External css */
+    /* provides color to the page background */
+    body {
+      background-color: #dbe2ef;
+    }
+
+    /* changes to the horizontal rule (hr) css */
+    hr {
+      background-color: white;
+      border-style: none;
+      border-top-style: dotted;
+      /* border-bottom-style:hidden;
+      border-right-style: hidden;
+      border-left-style: hidden;*/
+      border-color: gray;
+      border-width: 5px;
+      width: 5%;
+    }
+    h1 {
+      color: #3f72af;
+    }
+
+    h3 {
+      color: #3f72af;
+    }
